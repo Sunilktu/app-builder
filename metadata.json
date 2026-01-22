@@ -1,0 +1,8 @@
+{
+  "name": "Forge AI Meta-Builder",
+  "description": "An advanced AI-powered application builder prototype featuring a multi-agent orchestrator, self-healing reflection, and a live coding sandbox.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
